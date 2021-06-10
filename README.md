@@ -1,7 +1,12 @@
 # Wallarock
 
-Wallarock is a concept clone of the popular 2nd-hand platform spanish wallapop.
-Build entirely with MERN Stack
+![MERN Skeleton](https://github.com/DrZuzzjen/WallaroRock/blob/main/12.png)
+
+### Wallarock is a concept clone of the popular 2nd-hand platform spanish wallapop.
+
+### Built entirely with MERN Stack
+
+![MERN Skeleton](https://github.com/DrZuzzjen/WallaroRock/blob/main/8.png)
 
 ## Front
 Repository:
@@ -16,5 +21,7 @@ Repository:
 
 [Back-end](https://github.com/DrZuzzjen/Wallarock_backend_final)
 
-
-## Contributing
+## Created By
+[Jean-Francois Gutierrez](https://www.linkedin.com/in/gutierrezfrancois/)  // 
+Erika Dugarte  //
+Alvaro García
