@@ -1,6 +1,7 @@
 # Wallarock
 
-Wallarock is a concept clone of the popular 2nd-hand platform wallapop 
+Wallarock is a concept clone of the popular 2nd-hand platform spanish wallapop.
+Build entirely with MERN Stack
 
 ## Front
 Repository:
@@ -17,6 +18,3 @@ Repository:
 
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
