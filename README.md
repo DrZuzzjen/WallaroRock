@@ -2,7 +2,7 @@
 
 ![MERN Skeleton](https://github.com/DrZuzzjen/WallaroRock/blob/main/12.png)
 
-### Wallarock is a concept clone of the popular 2nd-hand platform spanish wallapop.
+### Wallarock is a concept clone of the popular spanish 2nd-hand platform "Wallapop".
 
 ### Built entirely with MERN Stack
 
